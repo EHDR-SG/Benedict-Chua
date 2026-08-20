@@ -2,11 +2,11 @@ BEGIN:VCARD
 VERSION:3.0
 N:Benedict;;;;
 FN:Chua
-ORG:Ever Higher Data Recovery Centre;EHSI
+ORG:Ever Higher Data Recovery Centre Pte Ltd;Ever Higher Pte Ltd
 TITLE:Sales Director
 TEL;TYPE=WORK,VOICE:+65 9850 6821
 EMAIL;TYPE=WORK:Ben.chua@ehsi.co
 ADR;TYPE=WORK:;;221 Henderson Road, #06-02(Block A), Henderson Industrial Park, 159557 Singapore;;;;
-URL:3verhigher.com
-URL:ehsi.co
+URL:www.3verhigher.com
+URL:www.ehsi.co
 END:VCARD
